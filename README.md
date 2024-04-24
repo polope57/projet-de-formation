@@ -18,4 +18,8 @@ Pour répondre à leurs besoins, nous leur avons proposé ceci :
 
 - Automatisation du script sur Google Cloud Platform (GCP) en utilisant Cloud Functions pour assurer son exécution régulière et automatisée.
 
-- Création d'un tableau de bord sur Looker qui se met à jour automatiquement à partir des données stockées dans BigQuery, offrant ainsi une visualisation en temps réel des KPI et des tendances de l'entreprise.
+- Création d'un tableau de bord sur Looker qui se met à jour automatiquement à partir des données stockées dans BigQuery, offrant ainsi une visualisation en temps réel des KPI et des tendances de l'entreprise.<br><br>
+
+<span style="font-size:30px;">**Résultat du projet**</span><br>
+
+L'entreprise est très satisfaite à l'égard des résultats obtenus et souhaite désormais intégrer cette solution au cœur de son processus opérationnel. Cette réussite a également stimulé leur intérêt pour le développement de projets supplémentaires axés sur la data. Parmi ces initiatives, ils envisagent d'utiliser la data pour suivre l'externalisation de leur entrepôt logistique et le suivi des abonnements des clients.
