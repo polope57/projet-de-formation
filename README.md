@@ -14,8 +14,8 @@ Cependant, l'équipe reconnaît désormais l'importance et le potentiel des donn
 
 Pour répondre à leurs besoins, nous leur avons proposé ceci :
 
-- Développement d'un script Python qui aura la charge d'extraire les données depuis Shopify (par le biais d'une API), de traiter les données (nettoyage, harmonisation, création) et de charger le tout sur Big Query
+- Développement d'un script Python chargé d'extraire les données depuis Shopify via son API, de les traiter (nettoyage, harmonisation, création) et de les charger dans BigQuery.
 
-- Mise en place de l'automatisation du script sur GCP avec Cloud Functions
+- Automatisation du script sur Google Cloud Platform (GCP) en utilisant Cloud Functions pour assurer son exécution régulière et automatisée.
 
-- Création d'un Dashboard sur Looker qui s'actualise automatiquement avec Big Query 
+- Création d'un tableau de bord sur Looker qui se met à jour automatiquement à partir des données stockées dans BigQuery, offrant ainsi une visualisation en temps réel des KPI et des tendances de l'entreprise.
